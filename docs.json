@@ -31,12 +31,12 @@
     "tabs": [
       {
         "tab": "Guides",
-        "groups": [
+        "pages": [
           {
             "group": "Get Started",
             "pages": [
               "introduction",
-              "quickstart",
+              "quickstart22222",
               "development"
             ]
           },
@@ -50,7 +50,8 @@
               "essentials/navigation",
               "essentials/reusable-snippets"
             ]
-          }
+          },
+          "lesson-2"
         ]
       },
       {
