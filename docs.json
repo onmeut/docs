@@ -9,11 +9,13 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "products": [
+    "anchors": [
       {
-        "product": "Product",
-        "pages": [
-          "h"
+        "anchor": "Ach",
+        "tabs": [
+          {
+            "tab": "Courses"
+          }
         ]
       }
     ]
